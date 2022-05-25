@@ -158,7 +158,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <java.version>1.8</java.version>
         <!--<springsecurity.version>4.0.1.RELEASE</springsecurity.version>-->
-        <springsecurity.version>5.1.5.RELEASE</springsecurity.version>
+        <springsecurity.version>5.5.7</springsecurity.version>
     </properties>
     
 	<!-- tambahan --> 
